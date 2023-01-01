@@ -1,0 +1,1 @@
+execute as @a at @s run playsound minecraft:block.piston.contract player @a[distance=0..8]
