@@ -1,0 +1,1 @@
+execute as @a at @s anchored eyes facing entity @e[distance=1..4] eyes run particle minecraft:sweep_attack ^ ^ ^2 0 0 0 0.01 20 force
